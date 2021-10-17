@@ -2,4 +2,5 @@
 Void main()
 {
 Printf("hellow world");
+Printf("all is fine");
 }
